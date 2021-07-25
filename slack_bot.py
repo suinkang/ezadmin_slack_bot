@@ -22,4 +22,4 @@ try:
     URL = "https://slack.com/api/chat.postMessage"
     res = requests.post(URL, data=data)
 except:
-    print(1)
+    print(3)
